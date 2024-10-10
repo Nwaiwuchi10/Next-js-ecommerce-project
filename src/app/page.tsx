@@ -1,4 +1,3 @@
-import Footer from "@/components/Footer/Footer";
 import Header from "@/components/Header/Hader";
 import Hero from "@/components/Hero/Hero";
 import Partners from "@/components/Partners/Partners";
@@ -16,7 +15,6 @@ export default function Home() {
         <ShopWithUs />
         <Stats />
         <Partners />
-        {/* <Footer /> */}
       </main>
     </div>
   );
