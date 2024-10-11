@@ -68,7 +68,7 @@ export default function ProductDetails() {
 
   return (
     <>
-      <div open={open} onClose={setOpen}>
+      <div>
         <h4>
           <Link href="/">Go Back</Link>
         </h4>
